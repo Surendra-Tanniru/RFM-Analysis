@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Surendra-Tanniru
-- 👀 I’m interested in learning new technologies..
-- 🌱 I’m currently learning python and data analytics
-- 💞️ I’m looking to collaborate on learning real time enterprise applications using python
-- 📫 How to reach me ? email me at ts4655@gmail.com
+# Customer Segmentation based on RFM Analysis![image](https://user-images.githubusercontent.com/83650174/122660056-90898600-d19b-11eb-8822-42b41eeeacc0.png)
 
-<!---
-Surendra-Tanniru/Surendra-Tanniru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
